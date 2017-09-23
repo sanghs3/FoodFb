@@ -1,12 +1,12 @@
 
 
-# Stockticker
+# FoodFB
 
 
 
 ## Usage
 
-
+Developed in 36 hour Hackathon
 
 ## Developing
 
